@@ -87,6 +87,7 @@ disconnectionScreen.serverFull=Server is full!
 disconnectionScreen.invalidSkin=Invalid skin!
 disconnectionScreen.invalidName=Invalid name!
 disconnectionScreen.resourcePack=Encountered a problem while downloading or applying resource pack.
+disconnectionScreen.loggedinOtherLocation=Logged in from other location
 
 potion.moveSpeed=Speed
 potion.moveSlowdown=Slowness
